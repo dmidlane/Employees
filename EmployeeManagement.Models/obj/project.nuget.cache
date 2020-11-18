@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "THeeK9+iQ5nG6n+58i5z3oWFuCbJJLK7KFcPmrCNLovKAO3NQXz2YaaVyD1959MKB+ZXwzB1TnuEjPN6r1m32g==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Employees\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dominic.Midlane\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dominic.Midlane\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Dominic.Midlane\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
